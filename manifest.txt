@@ -1,0 +1,2 @@
+Main-Class: stringrotator.stringrotator.StringRotator
+
